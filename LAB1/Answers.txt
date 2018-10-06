@@ -1,0 +1,7 @@
+1)There are 35 records on file and each fields contain 7 records.
+
+2)The problem will be like this;
+"Error: There was an error while applying the SQL script to the database."
+We have to add City Field on table.
+
+3)We can add last name,area code,city,state,zip code on table.
